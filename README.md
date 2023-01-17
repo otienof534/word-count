@@ -1,2 +1,3 @@
-# Hello,
-This is a program to count number of words in a row
+# word-count
+The word-count code
+This is to count the number of words in a row of a dataset
